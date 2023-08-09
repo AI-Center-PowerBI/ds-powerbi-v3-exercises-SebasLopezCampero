@@ -1,0 +1,2 @@
+Visualización de datos referentes a número de consultorios, camas y recursos en Establecimientos de Salud en México. Información obtenida de los Datos Abiertos de la Dirección General de Información en Salud (DGIS) de la Secretaría de Salud.
+Link: [DGIS](http://www.dgis.salud.gob.mx/contenidos/basesdedatos/Datos_Abiertos_gobmx.html)
